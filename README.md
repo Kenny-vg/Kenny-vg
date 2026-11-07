@@ -1,6 +1,5 @@
 <div align="center">
-
- Kendra Aiman de la Vega Anaya
+# Kendra Aiman de la Vega Anaya
  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1600&color=94A3B8&center=true&vCenter=true&width=640&lines=Software+Development+Student;Backend+%26+REST+APIs+with+Laravel;Java+%26+Kotlin+applications;Scrum+team+lead;Looking+for+an+internship+%E2%80%94+Sep+%E2%80%93+Dec+2027" />
 <br>
@@ -39,80 +38,47 @@ I'm looking for an **internship (Sep – Dec 2027)** where I can learn from an e
  
 ### Projects
  
-<table>
-<tr>
-<td width="50%" valign="top">
 #### METRA
-**SaaS for restaurant and café reservations**
-<sub>Capstone · Jan – Apr 2026 · Team of 5</sub>
+<sub>SaaS for restaurant and café reservations &nbsp;·&nbsp; Jan – Apr 2026 &nbsp;·&nbsp; Team of 5 &nbsp;·&nbsp; Team lead and backend</sub>
  
-A multi-tenant platform that replaces notebooks, calls and WhatsApp with structured reservations, table management and real-time occupancy. It started from surveys and interviews with local businesses.
+A multi-tenant platform to manage reservations, tables and real-time occupancy. A Laravel REST API serves both a web app and an Android app for the staff, with role-based access, a digital menu, promotions, email confirmations and an analytics dashboard.
  
-**We built:** a Laravel REST API shared by a web app and an Android staff app, with role-based access (SuperAdmin, manager, staff, customer), a digital menu, events and promotions, reviews, email confirmations and an analytics dashboard (occupancy, no-show rate, average stay).
+<img src="https://skillicons.dev/icons?i=laravel,mysql,js,tailwind,kotlin&theme=dark" height="34" />
+[Web app](https://github.com/Kenny-vg/METRA-app_web) &nbsp;·&nbsp; [Mobile app](https://github.com/Kenny-vg/METRA-app_movil)
  
-**My role:** team lead and backend. I coordinated 7 Scrum sprints in Jira and worked on the API architecture.
- 
-`Laravel` `MySQL` `Blade` `JavaScript` `Tailwind` `Kotlin`
- 
-[Web app](https://github.com/Kenny-vg/METRA-app_web) · [Mobile app](https://github.com/Kenny-vg/METRA-app_movil)
- 
-</td>
-<td width="50%" valign="top">
+<br>
 #### Check & Train
-**Gym membership management**
-<sub>Capstone · May – Aug 2025 · Team of 6</sub>
+<sub>Gym membership management &nbsp;·&nbsp; May – Aug 2025 &nbsp;·&nbsp; Team of 6 &nbsp;·&nbsp; Project lead</sub>
  
-A Java desktop app for a **real gym**: clients, memberships, payments and entry validation with unique **QR codes** sent by email. The gym staff were trained to use it on their own.
+A desktop app for a real gym to manage clients, memberships and payments, and to validate entry with QR codes sent by email. It includes role-based login and PDF reports, and it was delivered to the client together with training for the staff.
  
-**We built:** role-based login with BCrypt, client CRUD, membership and payment control, QR generation and validation, and PDF reports (per client, attendance, cash register).
- 
-**My role:** project lead. I planned sprints, assigned tasks and coordinated the team, the client and our advisors.
- 
-`Java` `Swing` `MySQL` `Maven` `ZXing` `iText`
- 
+<img src="https://skillicons.dev/icons?i=java,mysql,maven&theme=dark" height="34" />
 [Repository](https://github.com/Kenny-vg/Check-Train)
  
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
 #### Vista Verde Country Club
-**Landing page and order-taking app**
-<sub>Internship · May – Aug 2026 · Team of 2</sub>
+<sub>Internship &nbsp;·&nbsp; May – Aug 2026 &nbsp;·&nbsp; Team of 2 &nbsp;·&nbsp; Developer</sub>
  
-During my internship at **Vista Verde Country Club**, my teammate and I built two things for the club:
+Two deliverables for the club: a landing page, live in production, and an Android order-taking app that looks up members, connects to the club's ERP and prints order tickets on the kitchen printer.
  
-**1. Landing page**, live in production at [vistaverde.com.mx](https://vistaverde.com.mx/).
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,js,html,css&theme=dark" height="34" />
+[Live site](https://vistaverde.com.mx/) &nbsp;·&nbsp; [Landing repository](https://github.com/Kenny-vg/SISVV_landingPage)
  
-**2. Order-taking Android app (comandera)** to look up club members and take their orders. It connects to the club's **ERP** to record transactions in the database and to **print order tickets** on the kitchen printer.
- 
-**My role:** developer on both, working in a team of 2.
- 
-Landing: `JavaScript` `HTML` `CSS` &nbsp;·&nbsp; Comandera: `Kotlin` `Android Studio` `ERP integration`
- 
-[Live site](https://vistaverde.com.mx/) · [Landing repository](https://github.com/Kenny-vg/SISVV_landingPage)
- 
-</td>
-<td width="50%" valign="top">
+<br>
 #### LockerControl
-**Locker control system**
-<sub>Team of 2</sub>
+<sub>Locker control system &nbsp;·&nbsp; Team of 2 &nbsp;·&nbsp; Developer</sub>
  
-A Java desktop app that **assigns lockers to students** who request them and lets staff **unassign** them when needed. It also generates a **PDF report** on demand.
+A desktop app that assigns lockers to students, lets staff unassign them and generates PDF reports on demand.
  
-`Java` `MySQL` `Maven`
- 
+<img src="https://skillicons.dev/icons?i=java,mysql,maven&theme=dark" height="34" />
 [Repository](https://github.com/Kenny-vg/Locker-Control)
  
-</td>
-</tr>
-</table>
 ---
  
 ### How I work
  
 - **Agile by default:** Scrum sprints, Jira boards, daily meetings and sprint reviews.
-- **Quality matters:** on METRA we documented 45 test cases using manual testing, Selenium, Postman and OWASP ZAP (SQL injection).
+- **Quality matters:** on METRA we documented 45 test cases using manual testing, Selenium, Postman and OWASP ZAP.
 - **Real clients:** I have gathered requirements through surveys and forms, delivered software and handed over training.
 ---
  
@@ -125,7 +91,7 @@ A Java desktop app that **assigns lockers to students** who request them and let
  
 ### Certifications
  
-`CONITI 2025` · `Fundamentos de ChatGPT · Santander Open Academy (2025)` · `Red de Ciberseguridad Región Centro-Sur · ANUIES`
+CONITI 2025 &nbsp;·&nbsp; Fundamentos de ChatGPT, Santander Open Academy (2025) &nbsp;·&nbsp; Red de Ciberseguridad Región Centro-Sur, ANUIES
  
 ---
  
@@ -134,7 +100,7 @@ A Java desktop app that **assigns lockers to students** who request them and let
  
 Open to software development internships, especially backend.
  
-[Email](mailto:aimankendra22@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kendra-aiman-de-la-vega-anaya-b6b11a3b7/)
+[Email](mailto:aimankendra22@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kendra-aiman-de-la-vega-anaya-b6b11a3b7/)
  
 </div>
  
