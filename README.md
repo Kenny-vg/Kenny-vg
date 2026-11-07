@@ -1,5 +1,6 @@
 <div align="center">
-# Kendra Aiman de la Vega Anaya
+
+ Kendra Aiman de la Vega Anaya
  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1600&color=94A3B8&center=true&vCenter=true&width=640&lines=Software+Development+Student;Backend+%26+REST+APIs+with+Laravel;Java+%26+Kotlin+applications;Scrum+team+lead;Looking+for+an+internship+%E2%80%94+Sep+%E2%80%93+Dec+2027" />
 <br>
